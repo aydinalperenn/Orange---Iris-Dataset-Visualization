@@ -1,0 +1,3 @@
+Title: Orange - Iris Dataset Visualization
+Description:
+A simple Orange data mining project that visualizes the Iris dataset using a Data Table and Scatter Plot widgets. This workflow demonstrates basic data loading and visualization in Orange, ideal for beginners exploring data analysis and machine learning concepts.
